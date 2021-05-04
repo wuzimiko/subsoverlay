@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Videojs ASS/SSA subtitles</title>
+
+    <!-- bower-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video-js.min.css" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video.min.js"></script>
+    <script src="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.js"></script>
+
+    <!-- src -->
+    <link href="src/videojs.ass.css" rel="stylesheet">
+    <script src="src/videojs.ass.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.0.7/Youtube.min.js"></script>
+  </head>
+
+  <style>
+    .header {
+      display: flex;
+      align-items: center;
+    }
+    
+    .back {
+      flex: 0;
+      margin: 0 1rem;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    
+    .player-wrapper {
+      width: 65%;
+    }
+    
+    @media screen and (max-device-width: 1200px) {
+      .player-wrapper {
+        width: 80%;
+      }
+    }
+    
+    @media screen and (min-device-width: 1600px) {
+      .player-wrapper {
+        width: 50%;
+      }
+    }
+  </style>
+  
+  <body>
+    <div class="header">
+      <a class="back" href="https://github.com/wuzimiko/subsoverlay/">< Back</a>
+      <h2>Video.js x Advanced SubStation Alpha (libjass)</h2>
+    </div>
+    <div class="player-wrapper">
+      <video id="player" class="video-js vjs-default-skin vjs-big-play-centered"></video>
+    </div>
+    <script>
+      videojs('player', {
+        controls: true,
+        nativeControlsForTouch: false,
+        width: 640,
+        height: 360,
+        fluid: true,
+        plugins: {
+          ass: {
+            'src': ["subs/AENImmortalKingEP01.ass"],
+            'delay': -0.1,
+          }
+        },
+        src="http://203.205.159.45/vlive.qqvideo.tc.qq.com/AFgzxCjzPRVXylQUPQZKWTLe1AEq_U_Et_z3ePJU28rI/uwMROfz2r5zCIaQXGdGnCWdfDmZVvoxZDY0a2hsM3eru6Nth/i0033amwo4o.mp4?vkey=C2D9620FC7E838375EA25C401EA66E4F4D0B6FD2C4427A51BEAD7B0AC77BDB3571032AAD6DA5D015E32BCDACF64E8567E52DBAC337D33763DFAA8F3E58D9C9C909533257074ED482DBAA8D06B93447E0D59B8407909B55DF0A5685578267F7FDBE0C67E61A05AA7B9D9816DF10DA96D1'>;
+;
+    </script>
+      
+ <body>
+
+  <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="1024" height="450";
+      poster="http://video.wti0.com/demo/1.jpg"
+      data-setup="{}">
+
+
+  </video>
+
+</body>
+   
+
+    <p>
+      You can click on the icon between time remaining and fullscreen button
+      on the videojs control bar to toggle subtitle visibility.
+Note by wuzi: testing in progress. 
+Confirmed that some official videos are locked in Canada and U.S., possibly in European countries as well. 
+      Confirmed that the video + overlay works in Singapore. 
+      Currently testing embed function of bilibili and tencent videos.
+    </p>
+
+    <p>Subtitle by Guodong Subs</p>
+
+    <br><br>
+  </body>
+</html>
