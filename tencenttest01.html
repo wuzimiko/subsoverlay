@@ -1,4 +1,12 @@
+<html>
+  <head>
+    <title>TXplayer Test</title>
+
 <script src="src/txplayer.js"></script>
+
+$(document).on('TxPlayerJSBrageReady', function(){
+  var player = new Txplayer({vid: 'i0033amwo4o'});
+});
 
     var player = new Txp.Player({
         containerId: 'video_container',
@@ -6,5 +14,16 @@
         vid: 'i0033amwo4o'
     });
 
+width: '100%',
+  height: screen.availHeight/3
+});
+
+player.pause(); 
+player.mute(); 
+
+
+player.on('ready', fn); 
+player.on('volumeChange', fn); 
  
-</script>
+
+</html>
