@@ -1,19 +1,40 @@
 <html>
   <head>
     <title>[Guodong Subs] All Saints Street S2E01 English Sub</title>
+
+ <div id="container"></div>
   </head>
-
-  <body>
-<script type="text/javascript" src="//vm.gtimg.cn/tencentvideo/txp/js/iframe/api.js"></script>
-<script>
   
-    var player = new Txp.Player({
-        containerId: 'video_container',
+  <body>
+<script src="https://vm.gtimg.cn/tencentvideo/txp/js/txplayer.js"></script>
+<script type="text/javascript">
+      var player=new Txplayer({
+     	 //创建dom元素的id:
+          containerId:'container',
+          //视频id:
+          vid:'c0034hwtcwx',
+          //视频播放器的宽度
+          width:'1000',
+          //视频播放器的高度
+          height:'800',
+          //是否自动播放
+          autoplay:false
+      })
 
-        vid: 'c0034hwtcwx'
-    });
+  	// 调用api：
+  	player.pause(); // 暂停播放
+  	player.mute(); // 视频静音
+  	
+  	// 事件监听
+  	player.on('ready', function(){
+  		...
+  	}); // 初始化完成
+  	
+  	player.on('volumeChange', function(){
+  		...
+  	}); //音量发生变化
+  	
+</script>  
 
-</script>
-    
   </body>
 </html>
