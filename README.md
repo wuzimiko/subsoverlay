@@ -1,4 +1,4 @@
-** Latest**
+**Updates**
 
 ---
 06 June 2021
