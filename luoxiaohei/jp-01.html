@@ -50,18 +50,42 @@
       <header>
         <h1><a href="https://wuzimiko.github.io/subsoverlay/">subsoverlay</a></h1>
         
-        
+         <script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "200px";
+  document.getElementById("main").style.marginLeft = "0px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+  
+</script>
 
         <p>Subs Overlay for Guodong Subs</p>
 
-        
-        <br><br>
-         
-        <div style="text-align:left;font-weight: bold;font-size:20px;">This is an overlay of softsubs on the official video.</div>   
+       <br>
+        <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">Home</a>
+  <a href="#">Bulletin</a>
+  <a href="#">Projects</a>
+  <a href="#">Contact</a><br>
+          <iframe src="https://www6.cbox.ws/box/?boxid=864462&boxtag=r6qJLi" width="100%" height="350" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
+</div>
+
+<div id="main">
+  <span style="font-size:20px;cursor:pointer" onclick="openNav()">&#9776;</span>
+</div>
         <br>
-        <b>DISCLAIMER</b><br>
-  If you see ads, they are put there by the original channel.<br>
-  <b>It is not by us as we do not monetize our projects.</b><br>
+         
+        <div style="text-align:left;font-weight: bold;font-size:20px;">本字幕は直接公式の動画に上書きするソフト字幕です。</div>   
+        <br>
+        <b>お知らせです</b><br>
+  
+  <b>本プロジェクトは非営利ですので、</b><br>
+        もしご視聴の途中CMが現れたならそれは元UP主がアップロードしたものであることをご了承お願いします。
   <br><br><br><br><br>
 <p>This project is maintained by <a href="https://twitter.com/guodong_subs">wuzimiko</a></p>
         
@@ -75,11 +99,13 @@
         
 <p class="a">
 <b>この字幕は <a href="https://twitter.com/guodong_subs">Guodong Subs</a> で提供します<br>
-  All views will go to the official channel.</b> </p>
-        <br>
-          <b>Note</b> <br> 
-          The <a href="https://drive.google.com/file/d/1huW4DwK1mK-uoWe8YrI9FNDabqYr5jej/view?usp=sharing">font pack</a> will allow you to fully experience our typeset (PC only). Default fonts will be displayed if the font pack is not installed.
+	ここでの視聴回数は全部公式動画の視聴回数に記入されます。</b> 
         <br><br>
+  
+          <b>ご注意</b> <br> 
+          <a href="https://drive.google.com/file/d/1huW4DwK1mK-uoWe8YrI9FNDabqYr5jej/view?usp=sharing">専属フォント</a> を使うことでよりいい字幕効果と視聴体験が得られます（パソコンのみ）。専属フォントを使用しない場合は事前で設定したフォントを使います。        
+        </p>
+  <br><br> 
            
           <b>Navigation</b> <br>
           <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/jp">Return to Main / </a>
@@ -94,6 +120,51 @@
        p.a {
   font-family : 'ヒラギノ角ゴ ProN' , 'Hiragino Kaku Gothic ProN' , '游ゴシック' , '游ゴシック体' , YuGothic , 'Yu Gothic' , 'メイリオ' , Meiryo , 'ＭＳ ゴシック' , 'MS Gothic' , HiraKakuProN-W3 , 'TakaoExゴシック' , TakaoExGothic , 'MotoyaLCedar' , 'Droid Sans Japanese' , sans-serif;
 }     
+      
+      .sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+      
                                                                                                 
   </style>
           
