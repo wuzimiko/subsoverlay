@@ -39,27 +39,17 @@
     <div class="wrapper">
       <header>
         <h1><a href="https://wuzimiko.github.io/subsoverlay/">subsoverlay</a></h1>
-        
-        <div id="mySidebar" class="sidebar">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-  <a href="#">Home</a>
-  <a href="#">Projects</a>
-  <a href="#">Contact</a>
-          <br>
-         <iframe src="https://www6.cbox.ws/box/?boxid=864462&boxtag=r6qJLi" width="100%" height="350" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
-     
-          
-</div>
+       
 
 
 <script>
 function openNav() {
-  document.getElementById("mySidebar").style.width = "250px";
-  document.getElementById("main").style.marginLeft = "0";
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "0px";
 }
 
 function closeNav() {
-  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("mySidenav").style.width = "0";
   document.getElementById("main").style.marginLeft= "0";
 }
   
@@ -68,7 +58,20 @@ function closeNav() {
         
         <p>Subs Overlay for Guodong Subs</p>
 
-        
+        <br>
+        <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<div id="main">
+  <h2>Sidenav Push Example</h2>
+  <p>Click on the element below to open the side navigation menu, and push this content to the right.</p>
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+</div>
         <br>
          
         <div style="text-align:left;font-weight: bold;font-size:20px;">This is an overlay of softsubs on the official video.</div>   
@@ -131,7 +134,7 @@ Upon returning to Hangzhou from his two adventures in Nansha, Wu Xie received a 
       }    
       
 
-.sidebar {
+.sidenav {
   height: 100%;
   width: 0;
   position: fixed;
@@ -140,54 +143,39 @@ Upon returning to Hangzhou from his two adventures in Nansha, Wu Xie received a 
   left: 0;
   background-color: #111;
   overflow-x: hidden;
-  transition: 0.3s;
+  transition: 0.5s;
   padding-top: 60px;
 }
 
-.sidebar a {
+.sidenav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25px;
   color: #818181;
   display: block;
   transition: 0.3s;
 }
 
-.sidebar a:hover {
+.sidenav a:hover {
   color: #f1f1f1;
 }
 
-.sidebar .closebtn {
+.sidenav .closebtn {
   position: absolute;
   top: 0;
   right: 25px;
-  font-size: 20px;
+  font-size: 36px;
   margin-left: 50px;
 }
 
-.openbtn {
-  position: fixed;
-  font-size: 20px;
-  cursor: pointer;
-  background-color: #111;
-  color: white;
-  padding: 10px 15px;
-  border: none;
-}
-
-.openbtn:hover {
-  background-color: #444;
-}
-
 #main {
-  transition: margin-left .3s;
+  transition: margin-left .5s;
   padding: 16px;
 }
 
-/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
-  .sidebar {padding-top: 15px;}
-  .sidebar a {font-size: 18px;}
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
       
   </body>
