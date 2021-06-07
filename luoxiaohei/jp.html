@@ -36,25 +36,42 @@
       <header>
         <h1><a href="https://wuzimiko.github.io/subsoverlay/">subsoverlay</a></h1>
         
-        
+        <script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "200px";
+  document.getElementById("main").style.marginLeft = "0px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+  
+</script>
 
         <p>Subs Overlay for Guodong Subs</p>
 
-        
-        <br><br>
+      <br>
+        <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">Home</a>
+  <a href="#">Bulletin</a>
+  <a href="#">Projects</a>
+  <a href="#">Contact</a><br>
+          <iframe src="https://www6.cbox.ws/box/?boxid=864462&boxtag=r6qJLi" width="100%" height="350" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
+</div>
+
+<div id="main">
+  <span style="font-size:20px;cursor:pointer" onclick="openNav()">&#9776;</span>
+</div>
+        <br>
          
         <div style="text-align:left;font-weight: bold;font-size:20px;">本字幕は直接公式の動画に上書きするソフト字幕です。</div>   
         <br>
         <b>お知らせです</b><br>
   
   <b>本プロジェクトは非営利ですので、</b><br>
-        もしご視聴の途中CMが現れたならそれは元UP主がアップロードしたものであることをご了承お願いします。<br>
-        <br>
-	      <b>CBOX</b>
-	      <br><br>
-	      <iframe src="https://www6.cbox.ws/box/?boxid=864462&boxtag=r6qJLi" width="100%" height="250" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
-
-        
+        もしご視聴の途中CMが現れたならそれは元UP主がアップロードしたものであることをご了承お願いします。
   <br><br><br><br><br>
 <p>This project is maintained by <a href="https://twitter.com/guodong_subs">wuzimiko</a></p>
         
@@ -78,7 +95,53 @@
 }         
        p.a {
   font-family : 'ヒラギノ角ゴ ProN' , 'Hiragino Kaku Gothic ProN' , '游ゴシック' , '游ゴシック体' , YuGothic , 'Yu Gothic' , 'メイリオ' , Meiryo , 'ＭＳ ゴシック' , 'MS Gothic' , HiraKakuProN-W3 , 'TakaoExゴシック' , TakaoExGothic , 'MotoyaLCedar' , 'Droid Sans Japanese' , sans-serif;
-}     
+}
+	    
+	    
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+      
                                                                                                 
   </style>
   
