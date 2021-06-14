@@ -124,7 +124,7 @@ Dialogue: 0,0:01:31.31,0:01:35.22,PAGE1,,0,0,0,,{\an5\fade(250,0,255,20,478,3478
 Dialogue: 0,0:01:35.77,0:01:38.77,PAGE1,,0,0,0,,{\an5\fade(230,0,245,21,476,2685,2976)\blur1\pos(1446.476,809.143)}Chief Producer Cheng Wu
 Dialogue: 0,0:01:39.10,0:01:42.18,PAGE1,,0,0,0,,{\an5\fade(245,0,245,25,369,2730,3063)\blur1\pos(383.467,600)}Producer  Zou Zhengyu
 Dialogue: 0,0:01:45.52,0:01:51.81,PAGE1,,0,0,0,,{\an5\fade(245,0,0,25,4101,0,0)\bord1\shad2\blur0\pos(1016,0)}{\pos(967.143,1011.429)\c&H35EDFF&\3c&H35EDFF&\4c&H225C9C&}The Grave Robbers' Chronicles  (Dao Mu Bi Ji): \NBronze Tree of Death
-Dialogue: 0,0:01:51.81,0:01:55.31,PAGE1,,0,0,0,,{\fade(0,0,250,0,0,1395,3478)}{\an5\bord1\shad2\blur0\pos(1016,0)}{\pos(967.143,1011.429)}{\c&H35EDFF&\3c&H35EDFF&\4c&H225C9C&\t(20,353,\c&H467043&\3c&HA3B5C3&\4c&H929BAB&)}The Grave Robbers' Chronicles  (Dao Mu Bi Ji): \NBronze Tree of Death
+Dialogue: 0,0:01:51.81,0:01:52.39,PAGE1,,0,0,0,,{\fade(0,0,250,0,0,1395,3478)}{\an5\bord1\shad2\blur0\pos(1016,0)}{\pos(967.143,1011.429)}{\c&H35EDFF&\3c&H35EDFF&\4c&H225C9C&\t(20,353,\c&H467043&\3c&HA3B5C3&\4c&H929BAB&)}The Grave Robbers' Chronicles  (Dao Mu Bi Ji): \NBronze Tree of Death
 Comment: 0,0:00:00.10,0:00:00.10,Default,PAGE2,0,0,0,,PAGE
 Comment: 0,0:00:00.10,0:00:00.10,Default,PAGE3,0,0,0,,PAGE3
 Comment: 0,0:00:00.10,0:00:00.10,Default,PAGE4,0,0,0,,PAGE
