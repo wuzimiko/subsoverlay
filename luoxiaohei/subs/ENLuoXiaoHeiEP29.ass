@@ -32,7 +32,7 @@ Style: Masks1,思源黑体 Medium,52,&H00000000,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.02,0:02:57.52,Masks1,,0,0,0,,{\p1\bord0\shad0\c&H000000&\pos(480,550)}m 0 870 l 2645.375 870 2645.375 1024 0 1024
+Dialogue: 0,0:00:10.22,0:02:57.52,Masks1,,0,0,0,,{\p1\bord0\shad0\c&H000000&\pos(480,555)}m 0 870 l 2645.375 870 2645.375 1024 0 1024
 Comment: 0,0:00:10.22,0:02:57.52,MASK1,,0,0,0,,{\p1}m 0 0 0 150 1920 150 1920 0
 Comment: 0,0:00:00.00,0:00:00.00,Masks1,,0,0,0,,Masks
 Dialogue: 1,0:09:24.97,0:09:27.97,Guodong,,0,0,0,,Brought to you by Guodong Subs
