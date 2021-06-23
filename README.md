@@ -1,17 +1,14 @@
-<b>READ ME</b>
-<br><br>
-
 <p style="text-align:justify"> 
-SubsOverlay is a website created solely to test out overlaying softsubs on official donghua releases, and it should be painfully obvious that <b><i>I have literally zero experience in web design and coding</i></b>. Everything you see here is achieved through intense googling and the immense help of several donghua and non-donghua loving friends. While it is created <b>for Guodong Subs</b>, it is not explicitly named as such because: 
-<br>
+ <b>SubsOverlay</b> is a website created solely to test out overlaying softsubs on official donghua releases, and it should be painfully obvious that <b><i>I have literally zero experience in web design and coding</i></b>. Everything you see here is achieved through intense googling and the immense help of several donghua and non-donghua loving friends. While it is created <b>for Guodong Subs</b>, it is not explicitly named as such because: 
+ 
 1) www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, <br>
 
-2) before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws and Guodong is actively moving away from that, and <br><br>
+2) before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws and Guodong is actively moving away from that, and <br>
 
 3) most if not all edits I make to the code here is trial and error and could crash the whole site anytime. <br>
 <br>
 I am also at the final semester of my university while holding a full time job; I can only commit a certain number of hours per week to manage the site on top of work and studies and proofreading and translating. 
-<br>
+<br><br>
 
 As of 23 June 2021, there is still <b>no way to inject Tencent and Bilibili official videos to Videojs </b> and subsequently Videojsass. Tencent retricts all external sites embeds to play only the first 3 minutes, and all Bilibili embeds are capped at 480p max. The only method to overlay softsubs on those right now is via <b>chrome plugins</b>: AssLoader by @regsvr32 (for full typeset) and any other subtitles loading extensions such as Substital or +Sub (srt only), all of them available on the Chrome Web Store. You may simply visit the official Tencent/Bilibili sites and watch the official episode with any one of those plugins. They will work, albeit still a buggy workaround. In some cases, we will pair our softsubs with raws provided by third parties, mainly GMTeam, until the official release makes to Youtube, <b>at which I will just replace the video source with the official source.</b> 
 <br><br>
