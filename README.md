@@ -1,5 +1,7 @@
 <b>READ ME</b>
 <br><br>
+
+<p style="text-align:justify"> 
 SubsOverlay is a website created solely to test out overlaying softsubs on official donghua releases, and it should be painfully obvious that ***I have literally zero experience in web design and coding***. Everything you see here is achieved through intense googling and the immense help of several donghua and non-donghua loving friends. While it is created **for Guodong Subs**, it is not explicitly named as such because: 
 
 1) www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, 
@@ -18,6 +20,7 @@ I am indebted to @bugkkura for the inspiration and also for graciously sharing h
 Wuzimiko
 23.06.2021
 
+ </p>
 <br><br>
 ---
 <b>Latest Updates</b>
