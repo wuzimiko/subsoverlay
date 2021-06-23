@@ -3,7 +3,7 @@
  
 * www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, 
 
-* before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws and Guodong is actively moving away from that, and 
+* before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws (which Guodong is actively moving away from), and 
 
 * most if not all edits I make to the code here is trial and error and could crash the whole site anytime 
 
