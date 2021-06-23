@@ -14,10 +14,10 @@ I am indebted to @bugkkura for the inspiration and also for graciously sharing h
 Wuzimiko
 23.06.2021
 
- </p>
+ 
 <br><br>
 ---
-<b>Latest Updates</b>
+# Latest Updates
 
 ---
 06 June 2021
