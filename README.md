@@ -8,7 +8,7 @@ SubsOverlay is a website created solely to test out overlaying softsubs on offic
 
 3) most if not all edits I make to the code here is trial and error and could crash the whole site anytime. 
 
-I am also at the final semester of my university; I can only commit a certain number of hours per week to manage the site on top of studies and proofreading and translating. 
+I am also at the final semester of my university while holding a full time job; I can only commit a certain number of hours per week to manage the site on top of work and studies and proofreading and translating. 
 
 As of 23 June 2021, there is still **no way to inject Tencent and Bilibili official videos** to Videojs and subsequently Videojsass. Tencent retricts all external sites embeds **to play only the first 3 minutes**, all Bilibili embeds are **capped at 480p max**. The only method to overlay softsubs on those right now is via chrome plugins, AssLoader by @regsvr32 (for full typeset) and any other subtitles loading extensions such as Substital or +Sub (srt only), all of them available on the Chrome Web Store. You may simply visit the official sites and use any one of those plugins. They will work, albeit still an imperfect workaround. Otherwise, I will be pairing our softsubs with raws provided by third parties, mainly GMTeam, until the official release makes to Youtube, at which I will replace the video source to the official source.  
 
