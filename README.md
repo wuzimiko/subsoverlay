@@ -1,67 +1,38 @@
-# videojs-ass
+## Subsoverlay is... 
+...a website created solely to test out overlaying softsubs on official donghua releases, and it should be painfully obvious that <b><i>I have literally zero experience in web design and coding</i></b>. Everything you see here is achieved through intense googling and the immense help of several donghua and non-donghua loving friends. While it is created <b>for Guodong Subs</b>, it is not explicitly named as such because: 
+ 
+* www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, 
 
-Add **Advanced SubStation Alpha (ASS)** subtitles support to
-[videojs](https://github.com/videojs/video.js) using the
-[libjass](https://github.com/Arnavion/libjass) library.
+* before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws and Guodong is actively moving away from that, and 
 
-Check out the demo
-[here](https://sunnyli.github.io/videojs-ass/example.html)
+* most if not all edits I make to the code here is trial and error and could crash the whole site anytime 
 
+As of 23 June 2021, there is still **no way to inject Tencent and Bilibili official videos to Videojs** and subsequently Videojsass. Tencent retricts all external sites embeds to play only the first 3 minutes, and all Bilibili embeds are capped at 480p max. The only method to overlay softsubs on those right now is via chrome plugins: AssLoader by @regsvr32 (for full typeset) and any other subtitles loading extensions such as Substital or +Sub (srt only), all of them available on the Chrome Web Store. You may simply visit the official Tencent/Bilibili sites and watch the official episode with any one of those plugins. They will work, albeit still a buggy workaround. In some cases, we will pair our softsubs with raws provided by third parties, mainly GMTeam, until the official release makes to Youtube, **at which I will just replace the video source with the official source.**
 
-## Install
+I am indebted to @bugkkura for the inspiration and also for graciously sharing her code. Without her this project would not have been possible. 
 
-For plugin that supports videojs v5.x install using either:
+Wuzimiko
+23.06.2021
 
-- `bower install videojs-ass`
+ 
+<br><br>
+---
+### Latest Updates
 
-or
+---
+06 June 2021
 
-- `npm install videojs-ass`
+[Dao Mu Bi Ji: Bronze Tree of Death EP 01(Eng Sub)] (https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en)
 
-For videojs v4:
+<a href="https://wuzimiko.github.io/subsoverlay/theoutcasts3/en">The Outcast S3 (Eng Sub)</a>
 
-Just specify version to be within:
+ <p style="font-family : 'ヒラギノ角ゴ ProN' , 'Hiragino Kaku Gothic ProN' , '游ゴシック' , '游ゴシック体' , YuGothic , 'Yu Gothic' , 'メイリオ' , Meiryo , 'ＭＳ ゴシック' , 'MS Gothic' , HiraKakuProN-W3 , 'TakaoExゴシック' , TakaoExGothic , 'MotoyaLCedar' , 'Droid Sans Japanese' , sans-serif;
+"> <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/jp">羅小黑戰記 (日本語字幕付き)</a> </p>
+ 
+ <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en">The Legend of Luo Xiaohei (Eng Sub)</a>
+ 
+---
+ 27 May 2021
 
-```
-"videojs-ass": ">=0.3.0 < 0.5.0"
-```
-for bower or npm whichever you prefer using.
+ <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en-officialmv">The Legend of Hei: Shelter (Eng Sub)</a>
 
-
-## Usage
-
-Initialize the `ass` plugin with the `src` field like the following:
-
-```
-videojs('player_id', {
-  plugins: {
-    ass: {
-      src: 'subs/subtitles.ass'
-    }
-  }
-}
-```
-
-| Option      | Default       | Description                                                |
-| ----------- | ------------- | ---------------------------------------------------------- |
-| src         | -<sup>1</sup> | `.ass` / `.ssa` source.                                    |
-| label       | -<sup>2</sup> | subtitle track label that shows up in the subtitles picker |
-| delay       | 0<sup>3</sup> | delay subtitle rendering by the specified value in seconds |
-| rate        | 1             | subtitle update speed relative to video playback rate      |
-| enableSvg   | true          | see [here][svg-effects] regarding SVG filter               |
-| fontMap     | -             | see [here][font-map] regarding using custom web fonts      |
-| fontMapById | -             | alternate to above, takes id and runs [this][font-map-el]  |
-| videoWidth  | -<sup>3</sup> | metadata to assist in determining the optimal (cont below) |
-| videoHeight | -<sup>3</sup> | (cont) subtitle letterboxing ratio                         |
-
-**Footnotes:**
-
-1. This property is required!
-2. Has fallback values but you should provide a better label.
-3. Value can be negative
-4. Generally, you should set these values when using external videojs providers
-   as they might not expose the video dimensions to the player.
-
-[svg-effects]: https://github.com/Arnavion/libjass/blob/v0.10.0/README.md#what-browser-and-javascript-features-does-libjass-need
-[font-map]: https://arnavion.github.io/libjass/api.xhtml#libjass.renderers.RendererSettings.fontMap
-[font-map-el]: https://arnavion.github.io/libjass/api.xhtml#libjass.renderers.RendererSettings.makeFontMapFromStyleElement
