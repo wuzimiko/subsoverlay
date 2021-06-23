@@ -6,7 +6,7 @@ SubsOverlay is a website created solely to test out overlaying softsubs on offic
 
 2) before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws and Guodong is actively moving away from that, and 
 
-3) most of the time every edit I make to the code here is trial and error and could crash the whole site anytime. 
+3) most if not all edits I make to the code here is trial and error and could crash the whole site anytime. 
 
 I am also at the final semester of my university; I can only commit a certain number of hours per week to manage the site on top of studies and proofreading and translating. 
 
