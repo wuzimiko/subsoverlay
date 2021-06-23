@@ -2,7 +2,7 @@
 <br><br>
 SubsOverlay is a website created solely to test out overlaying softsubs on official donghua releases, and it should be painfully obvious that ***I have literally zero experience on web design and coding***. Everything you see here is achieved through intense googling and the immense help of several donghua and non-donghua loving friends. While it is created **for Guodong Subs**, it is not explicitly named as such because: 
 
-1) www.guodongsubs.com will be resurrected once we purchase a newer (and smaller) server, 
+1) www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, 
 
 2) before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws and Guodong is actively moving away from that, and 
 
