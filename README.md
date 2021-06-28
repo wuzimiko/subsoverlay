@@ -15,7 +15,7 @@ As of 23 June 2021, there is still <b>no way to inject Tencent and Bilibili offi
 </div>
  <br>
 <div style="text-align: justify">
-I am indebted to <a href="https://twitter.com/bugkkura">@bugkkura</a> for the inspiration and also for graciously sharing her code. Without her this project would not have been possible. 
+I am indebted to <a href="https://twitter.com/bugkkura">@bugkkura</a> for the inspiration and also for generously sharing her code. Without her this project would not have been possible. 
 </div>
  <br>
 Wuzimiko <br>
