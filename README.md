@@ -9,7 +9,7 @@
 
 As of 23 June 2021, there is still **no way to inject Tencent and Bilibili official videos to Videojs** and subsequently Videojsass. Tencent retricts all external sites embeds to play only the first 3 minutes, and all Bilibili embeds are capped at 480p max. The only method to overlay softsubs on those right now is via chrome plugins: <a href="https://chrome.google.com/webstore/detail/assloader/kgekkblldbeehilpnmlfmbkgnemcgbkl">AssLoader</a> by <a href="https://github.com/regsvr32">@regsvr32</a> (for full typeset) and any other subtitles loading extensions such as <a href="https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg">Substital</a> or <a href="https://chrome.google.com/webstore/detail/%2Bsub/lpobdmdfgjokempajoobgfdnhjbjlnpm">+Sub</a> (srt only), all of them available on the Chrome Web Store. You may simply visit the official Tencent/Bilibili sites and watch the official episode with any one of those plugins. They will work, albeit still a buggy workaround. In some cases, we will pair our softsubs with raws provided by third parties, mainly <a href="https://nyaa.si/user/GuoManTeam">GM Team</a>, until the official release makes to Youtube, **at which I will just replace the video source with the official source.**
 
-I am indebted to <a href="https://twitter.com/bugkkura">@bugkkura</a> for the inspiration and also for graciously sharing her code. Without her this project would not have been possible. 
+I am indebted to <a href="https://twitter.com/bugkkura">@bugkkura</a> for the inspiration and also for generously sharing her code. Without her this project would not have been possible. 
 
 Wuzimiko
 23.06.2021
