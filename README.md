@@ -2,8 +2,6 @@
 <div style="text-align: justify">
 ...a website created solely to test out overlaying softsubs on official donghua releases, and it should be painfully obvious that <b><i>I have literally zero experience in web design and coding</i></b>. Everything you see here is achieved through intense googling and the immense help of several donghua and non-donghua loving friends. While it is created for <b><a href="https://twitter.com/guodong_subs">Guodong Subs</a></b>, it is not explicitly named as such because: </div>
 <br>
-
- 
 - www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, 
 
 - before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws (which Guodong is actively moving away from), and 
@@ -23,23 +21,4 @@ Wuzimiko <br>
 
  
 <br><br>
----
-### Latest Updates
-
----
-06 June 2021
-
-<a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Dao Mu Bi Ji: Bronze Tree of Death EP 01(Eng Sub)</a>
-
-<a href="https://wuzimiko.github.io/subsoverlay/theoutcasts3/en">The Outcast S3 (Eng Sub)</a>
-
- <p style="font-family : 'ヒラギノ角ゴ ProN' , 'Hiragino Kaku Gothic ProN' , '游ゴシック' , '游ゴシック体' , YuGothic , 'Yu Gothic' , 'メイリオ' , Meiryo , 'ＭＳ ゴシック' , 'MS Gothic' , HiraKakuProN-W3 , 'TakaoExゴシック' , TakaoExGothic , 'MotoyaLCedar' , 'Droid Sans Japanese' , sans-serif;
-"> <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/jp">羅小黑戰記 (日本語字幕付き)</a> </p>
- 
- <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en">The Legend of Luo Xiaohei (Eng Sub)</a>
- 
----
- 27 May 2021
-
- <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en-officialmv">The Legend of Hei: Shelter (Eng Sub)</a>
 
