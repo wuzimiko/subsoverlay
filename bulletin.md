@@ -14,7 +14,7 @@ layout: default
 ---
 ### 06 June 2021
 
-#### [MAIN]  
+#### [PROJECT PAGE]  
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Dao Mu Bi Ji: Bronze Tree of Death (English Sub)</a>
 
 <a href="https://wuzimiko.github.io/subsoverlay/theoutcasts3/en">The Outcast S3 (English Sub)</a>
