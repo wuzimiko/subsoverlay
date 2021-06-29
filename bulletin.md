@@ -6,6 +6,18 @@ layout: default
 ## Latest Updates
 
 ---
+### 30 June 2021
+
+#### [EPISODE] 
+<a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en-12">A Will Eternal EP 12 (Eng Sub)</a>
+
+---
+### 29 June 2021
+
+#### [PROJECT PAGE] 
+<a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en">A Will Eternal (Eng Sub)</a>
+
+---
 ### 14 June 2021
 
 #### [EPISODE] 
