@@ -5,7 +5,7 @@
  
  
  <ul>
-<li>www.guodongsubs.com will be reinstated once we purchase a newer (and smaller) server, </li><br>
+  <li><a href="www.guodongsubs.com">www.guodongsubs.com</a> will be reinstated once we purchase a newer (and smaller) server, </li><br>
 
 <li>before I secure a way to embed official Tencent and Bilibili links, I would still need to use third-party raws (which Guodong is actively moving away from), and </li><br>
 
