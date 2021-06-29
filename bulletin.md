@@ -6,9 +6,14 @@ layout: default
 ### Latest Updates
 
 ---
+14 June 2021
+
+<a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-01">Dao Mu Bi Ji: Bronze Tree of Death EP 01(Eng Sub)</a>
+
+---
 06 June 2021
 
-<a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Dao Mu Bi Ji: Bronze Tree of Death EP 01(Eng Sub)</a>
+<a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Dao Mu Bi Ji: Bronze Tree of Death</a>
 
 <a href="https://wuzimiko.github.io/subsoverlay/theoutcasts3/en">The Outcast S3 (Eng Sub)</a>
 
