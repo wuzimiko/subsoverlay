@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<style>
 .zoom {
   transition: transform .2s;
 }
