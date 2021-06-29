@@ -3,18 +3,18 @@ layout: default
 ---
 
 
-### Latest Updates
+## Latest Updates
 
 ---
-#### 14 June 2021
+### 14 June 2021
 
-##### [EPISODE] 
+#### [EPISODE] 
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-01">Dao Mu Bi Ji: Bronze Tree of Death EP 01(Eng Sub)</a>
 
 ---
-#### 06 June 2021
+### 06 June 2021
 
-##### [MAIN] 
+#### [MAIN] 
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Dao Mu Bi Ji: Bronze Tree of Death (English Sub)</a>
 
 <a href="https://wuzimiko.github.io/subsoverlay/theoutcasts3/en">The Outcast S3 (English Sub)</a>
@@ -25,8 +25,8 @@ layout: default
 <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en">The Legend of Luo Xiaohei (Eng Sub)</a>
  
 ---
-#### 27 May 2021
+### 27 May 2021
 
-##### [MUSIC] 
+#### [MUSIC] 
 <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en-officialmv">The Legend of Hei: Shelter (Eng Sub)</a>
 
