@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>subsoverlay | Subs Overlay</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="subsoverlay" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Subs Overlay" />
+<meta property="og:description" content="Subs Overlay" />
+<link rel="canonical" href="https://wuzimiko.github.io/subsoverlay/" />
+<meta property="og:url" content="https://wuzimiko.github.io/subsoverlay/" />
+<meta property="og:site_name" content="subsoverlay" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="subsoverlay" />
+<script type="application/ld+json">
+{"headline":"subsoverlay","description":"Subs Overlay","url":"https://wuzimiko.github.io/subsoverlay/","@type":"WebSite","name":"subsoverlay","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+    
+    
+
+    <link rel="stylesheet" href="/subsoverlay/assets/css/style.css?v=894a5f31f0ac1968f6285a9520442e9b03a6a0ac">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    
+    
+    <!-- bower-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video-js.min.css" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/5.5.3/video.min.js"></script>
+    <script src="https://cdn.rawgit.com/Arnavion/libjass/36f6600d6cc78daf29fe747f2cc0cb0a4f83ad41/demo/libjass.js"></script>
+
+    <!-- src -->
+    <link href="src/videojs.ass.css" rel="stylesheet">
+    <script src="src/videojs.ass.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.0.7/Youtube.min.js"></script>
+    
+    
+    <title>Bronze Tree of Death EP 01 (Eng Sub)</title>
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://wuzimiko.github.io/subsoverlay/">subsoverlay</a></h1>
+        
+        
+
+        <p>Subs Overlay for Guodong Subs</p>
+
+        
+        <br><br>
+         
+        <div style="text-align:left;font-weight: bold;font-size:20px;">This is an overlay of softsubs on the official video.</div>   
+        <br>
+        <b>DISCLAIMER</b><br>
+  If you see ads, they are put there by the original channel.<br>
+  <b>It is not by us as we do not monetize our projects.</b><br>
+  <br><br><br><br><br>
+<p>This project is maintained by <a href="https://twitter.com/guodong_subs">wuzimiko</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </header>
+      <section>
+
+        <div style="text-align:center;font-weight: bold;font-size:25px;">Dao Mu Bi Ji: Bronze Tree of Death</div> 
+        <div style="text-align:center;font-weight: bold;font-size:18px;">EP 01</div> 
+        <br>
+
+<b>English subtitles provided by <a href="https://twitter.com/guodong_subs">Guodong Subs</a><br>
+        All views will go to the <a href="https://www.youtube.com/playlist?list=PLxOs22nkVmnKroGV7O6qMwZ59RW31elGF">official channel</a>.</b> 
+        <br>
+  <br>
+        <p> <b>Note</b> <br> 
+          The <a href="https://drive.google.com/drive/folders/1X78JBEvK-a0gi2LE2E3GONw-6-evPmZ6?usp=sharing">font pack</a> will allow you to fully experience our typeset (PC only). Default fonts will be displayed if the font pack is not installed.
+        <br><br>
+          <b>Navigation</b> <br>
+         <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Return to Main </a> /
+          <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-02">Next ></a>
+          <br><br><br>
+    <style>
+  body {
+  background-color: #d4e5ec
+ ;
+}
+
+
+
+          
+<style class="vjs-styles-defaults">
+    .video-js {
+      width: 300px;
+      height: 150px;
+}
+    .vjs-fluid {
+      padding-top: 56.25%
+    }
+  </style><style class="vjs-styles-dimensions">
+      .player-dimensions {
+        width: 640px;
+        height: 360px;
+      }
+  
+      .player-dimensions.vjs-fluid {
+        padding-top: 56.25%;
+        margin-right: 2%; margin-left: 2%;
+      }
+          
+    </style>
+<style type="text/css">.vjs-youtube .vjs-iframe-blocker { display: none; }.vjs-youtube.vjs-user-inactive .vjs-youtube .vjs-youtube-mobile .vjs-big-play-button { display: none; }</style>
+  <style>
+    .header {
+      display: flex;
+      align-items: center;
+    }    
+    .back {
+      flex: 0;
+      margin: 0 1rem;
+      text-decoration: none;
+      white-space: nowrap;
+    }    
+    .player-wrapper {
+      width: 100%;
+      height: 100%;
+    }
+    @media screen and (max-device-width: 600px) {
+      .player-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    @media screen and (max-device-width: 800px) {
+      .player-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    @media screen and (max-device-width: 1200px) {
+      .player-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+    }    
+    @media screen and (min-device-width: 1600px) {
+      .player-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+    }</style><style id="libjass-animation-styles-0" type="text/css"></style>
+
+  <body>
+
+<div class="player-wrapper">
+      <div class="video-js vjs-default-skin vjs-big-play-centered player-dimensions vjs-fluid vjs-controls-enabled vjs-youtube vjs-has-started vjs-paused vjs-user-inactive" id="player"><div><iframe id="player_Youtube_api" style="top:0;left:0;" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/WmM2d9Gp5EU?cc_load_policy=3;controls=0&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;loop=0&amp;fs=0&amp;hl=en&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsunnyli.github.io&amp;widgetid=1"></iframe><div class="vjs-iframe-blocker" style="position:absolute;top:0;left:0;width:100%;height:100%;z-index:-999"></div></div><div class="vjs-ass libjass-wrapper"><div class="libjass-subs paused" style="width: 708px; height: 531px; left: 118px; top: 0px;"></div><div class="libjass-font-measure">M</div><svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="libjass-filters" width="0" height="0"><defs></defs></svg></div><div></div><div class="vjs-text-track-display"><div style="position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; margin: 1.5%;"></div></div><div class="vjs-loading-spinner"></div><button class="vjs-big-play-button" tabindex="0" role="button" type="button" aria-live="polite"><span class="vjs-control-text">Play Video</span></button><div class="vjs-control-bar"><button class="vjs-play-control vjs-control vjs-button vjs-paused" tabindex="0" role="button" type="button" aria-live="polite"><span class="vjs-control-text">Play</span></button><div class="vjs-volume-menu-button vjs-menu-button vjs-menu-button-inline vjs-control vjs-button vjs-volume-menu-button-horizontal" tabindex="0" role="button" type="button" aria-live="polite" aria-haspopup="true"><span class="vjs-control-text">Mute</span><div class="vjs-menu"><div class="vjs-menu-content"><div tabindex="0" class="vjs-volume-bar vjs-slider-bar vjs-slider vjs-slider-horizontal" role="slider" aria-valuenow="100.00" aria-valuemin="0" aria-valuemax="100" aria-label="volume level" aria-valuetext="100.00%"><div class="vjs-volume-level"><span class="vjs-control-text"></span></div></div></div></div></div><div class="vjs-current-time vjs-time-control vjs-control"><div class="vjs-current-time-display" aria-live="off"><span class="vjs-control-text">Current Time</span> 0:00</div></div><div class="vjs-time-control vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-control vjs-control"><div class="vjs-duration-display" aria-live="off"><span class="vjs-control-text">Duration Time</span> 3:36</div></div><div class="vjs-progress-control vjs-control"><div tabindex="0" class="vjs-progress-holder vjs-slider vjs-slider-horizontal" role="slider" aria-valuenow="0.09" aria-valuemin="0" aria-valuemax="100" aria-label="video progress bar" aria-valuetext="0:00"><div class="vjs-load-progress" style="width: 6.45287%;"><span class="vjs-control-text" style="left: 0%; width: 100%;"><span>Loaded</span>: 0%</span></div><div class="vjs-mouse-display" data-current-time="2:55" style="left: 597px;"></div><div class="vjs-play-progress vjs-slider-bar" data-current-time="0:00" style="width: 0.09%;"><span class="vjs-control-text"><span>Progress</span>: 0%</span></div></div></div><div class="vjs-live-control vjs-control vjs-hidden"><div class="vjs-live-display" aria-live="off"><span class="vjs-control-text">Stream Type</span>LIVE</div></div><div class="vjs-remaining-time vjs-time-control vjs-control"><div class="vjs-remaining-time-display" aria-live="off"><span class="vjs-control-text">Remaining Time</span> -3:36</div></div><div class="vjs-custom-control-spacer vjs-spacer ">&nbsp;</div><button class="vjs-control vjs-button vjs-ass-button" tabindex="0" role="button" type="button" aria-live="polite"><span class="vjs-control-text"></span></button><div class="vjs-playback-rate vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="button" type="button" aria-live="polite" aria-haspopup="true"><span class="vjs-control-text">Playback Rate</span><div class="vjs-playback-rate-value">1</div><div class="vjs-menu"><ul class="vjs-menu-content"></ul></div></div><div class="vjs-chapters-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="button" type="button" aria-live="polite" aria-haspopup="true" aria-label="Chapters Menu"><span class="vjs-control-text">Chapters</span><div class="vjs-menu"><ul class="vjs-menu-content"><li class="vjs-menu-title" tabindex="-1">Chapters</li></ul></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="button" type="button" aria-live="polite" aria-haspopup="true" aria-label="Subtitles Menu"><span class="vjs-control-text">Subtitles</span><div class="vjs-menu"><ul class="vjs-menu-content"><li class="vjs-menu-item vjs-selected" tabindex="0" role="button" type="button" aria-live="polite" aria-selected="true">subtitles off<span class="vjs-control-text"></span></li></ul></div></div><div class="vjs-captions-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="button" type="button" aria-live="polite" aria-haspopup="true" aria-label="Captions Menu"><span class="vjs-control-text">Captions</span><div class="vjs-menu"><ul class="vjs-menu-content"><li class="vjs-menu-item vjs-texttrack-settings" tabindex="0" role="button" type="button" aria-live="polite" aria-selected="false">captions settings<span class="vjs-control-text"></span></li><li class="vjs-menu-item vjs-selected" tabindex="0" role="button" type="button" aria-live="polite" aria-selected="true">captions off<span class="vjs-control-text"></span></li></ul></div></div><button class="vjs-fullscreen-control vjs-control vjs-button " tabindex="0" role="button" type="button" aria-live="polite"><span class="vjs-control-text">Fullscreen</span></button></div><div class="vjs-error-display vjs-modal-dialog vjs-hidden " tabindex="-1" aria-describedby="player_component_304_description" aria-hidden="true" aria-label="Modal Window" role="dialog"><p class="vjs-modal-dialog-description vjs-offscreen" id="player_component_304_description">This is a modal window.</p><div class="vjs-modal-dialog-content" role="document"></div></div><div class="vjs-caption-settings vjs-modal-overlay vjs-hidden"><div class="vjs-tracksettings">
+    </div>
+    <div class="vjs-tracksettings-controls">
+      <button class="vjs-default-button">Defaults</button>
+      <button class="vjs-done-button">Done</button>
+    </div></div></div>
+    </div>
+    
+<script>
+      videojs('player', {
+        controls: true,
+        nativeControlsForTouch: false,
+        width: 1000,
+        height: 562,
+        fluid: true,
+        plugins: {
+          ass: {
+            'src': ["subs/OffverDMBJ01.ass"],
+          }
+        },
+        techOrder: ["youtube"],
+        sources: [{"type": "video/youtube", "src": "https://www.youtube.com/embed/WmM2d9Gp5EU?cc_load_policy=3"}]
+      });
+    </script>
+    
+   
+      </section>
+
+    </div>
+    <script src="/subsoverlay/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>
