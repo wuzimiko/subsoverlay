@@ -5,7 +5,7 @@ layout: default
 ## Announcements
 
 <div style="text-align: justify">
- On top of overlaying softsubs on <b>official donghua youtube channels</b>, Guodong Subs will be moving away from directly providing the raws or hardcoded subtitles via Nyaa. Instead, all our softsubs will be made available for download and will be compatible with the raws provided by <a href="https://nyaa.si/user/GuoManTeam">GM Team</a>. As of now, the only exception would be FSMM, which we will continue to update via Nyaa. For more information, see <a href="https://wuzimiko.github.io/subsoverlay/about">README</a> and individual project pages.
+ On top of overlaying softsubs on <b>official donghua youtube channels</b>, Guodong Subs will be moving away from directly providing raws or hardcoded subtitles via Nyaa. Instead, all our softsubs will be made available for download and will be compatible with the raws provided by <a href="https://nyaa.si/user/GuoManTeam">GM Team</a>. As of now, the only exception would be FSMM, which we will continue to update via Nyaa. For more information, see <a href="https://wuzimiko.github.io/subsoverlay/about">README</a> and individual project pages.
 
  </div>>
  
