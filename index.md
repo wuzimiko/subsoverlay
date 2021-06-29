@@ -14,7 +14,7 @@ layout: default
 
 </style>
 <div class="zoom">
-<a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en"> <img src="images/AWEBanner.png"> </a></div>
+<a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en"> <img src="images/AWEBannerR1.png"> </a></div>
 
 <br>
 
