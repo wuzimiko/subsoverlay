@@ -6,12 +6,12 @@ layout: default
 ### Latest Updates
 
 ---
-14 June 2021
+# 14 June 2021
 
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-01">[EPISODE] Dao Mu Bi Ji: Bronze Tree of Death EP 01(Eng Sub)</a>
 
 ---
-06 June 2021
+# 06 June 2021
 
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">[MAIN] Dao Mu Bi Ji: Bronze Tree of Death (English Sub)</a>
 
@@ -23,7 +23,7 @@ layout: default
  <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en">[MAIN] The Legend of Luo Xiaohei (Eng Sub)</a>
  
 ---
- 27 May 2021
+ # 27 May 2021
 
  <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en-officialmv">[MUSIC] The Legend of Hei: Shelter (Eng Sub)</a>
 
