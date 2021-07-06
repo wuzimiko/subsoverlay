@@ -18,9 +18,9 @@ Video Position: 651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Guodong,思源黑体 Medium,55,&H00FFFFFF,&H000000FF,&H00162931,&H00000000,0,0,0,0,100,100,0,0,1,1,1.05469,8,15,15,83,1
-Style: STAFF,思源黑体 Medium,44,&H00FFFFFF,&H000D0EF5,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1,0.1,8,15,15,18,1
-Style: Statement,思源黑体 Medium,50,&H00444444,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,0.2,8,15,15,44,1
+Style: Guodong,思源黑体 Medium,45,&H00FFFFFF,&H000000FF,&H00162931,&H00000000,0,0,0,0,100,100,0,0,1,1,1.05469,8,15,15,83,1
+Style: STAFF,思源黑体 Medium,40,&H00FFFFFF,&H000D0EF5,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1,0.1,8,15,15,18,1
+Style: Statement,思源黑体 Medium,45,&H00444444,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,0.2,8,15,15,44,1
 Style: Masks1,思源黑体 Medium,56,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,5,15,15,15,1
 Style: Masks2,思源黑体 Medium,56,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,5,15,15,15,1
 Style: Masks3,思源黑体 Medium,56,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,5,15,15,15,1
@@ -31,12 +31,12 @@ Style: OP_CH2,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Style: ED_CH1,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
 Style: ED_CH2,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
 Style: Insert_music_CH,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,135,1
-Style: Default_EN,思源黑体 Medium,52,&H00FFFFFF,&H000000FF,&H003C3D40,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,0,0,12,1
-Style: Default_ENL,思源黑体 Medium,51,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,1,150,0,35,1
-Style: Default_ENR,思源黑体 Medium,51,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,3,0,150,35,1
-Style: OP_EN1,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.1,0.1,2,15,15,24,1
-Style: OP_EN2,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
-Style: ED_EN1,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
+Style: Default_EN,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H003C3D40,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,0,0,12,1
+Style: Default_ENL,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,1,150,0,35,1
+Style: Default_ENR,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.05469,1.05469,3,0,150,35,1
+Style: OP_EN1,思源黑体 Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.1,0.1,2,15,15,24,1
+Style: OP_EN2,思源黑体 Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
+Style: ED_EN1,思源黑体 Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
 Style: ED_EN2,吉页颉黑体简,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,15,15,12,1
 Style: Insert_music_EN,思源黑体 Medium,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.10938,1.05469,2,15,15,105,1
 Style: TITLE_EN,汉仪尚巍手书W,56,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0.5,1,1,0,2,15,15,135,1
@@ -76,8 +76,8 @@ Comment: 0,0:00:00.00,0:00:00.00,Masks2,,0,0,0,,Masks
 Dialogue: 0,0:00:00.00,0:00:07.02,Guodong,,0,0,0,,{\pos(960,16)}Brought to you by Guodong Subs
 Comment: 0,0:04:29.90,0:04:31.86,STAFF,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default_JP,,0,0,0,,STAFF
-Dialogue: 0,0:00:07.06,0:00:12.35,Statement,,0,0,0,,{\fad(1040,0)}This is an overlay of softsubs on the official video.\NAll views will go to the official channel.
-Dialogue: 0,0:00:15.56,0:00:17.35,STAFF,,0,0,0,,{\fad(105,300)}Translator: Sophia   First proof: Bronco   Second proof: Agogo   \NEffects & Encoder: Yuuki    QC: Wuzimiko
+Dialogue: 0,0:00:07.06,0:00:12.35,Statement,,0,0,0,,{\fad(200,0)}This is an overlay of softsubs on the official video.\NAll views will go to the official channel.
+Dialogue: 0,0:00:15.56,0:00:17.35,STAFF,,0,0,0,,{\fad(0,300)}Translator: Sophia   First proof: Bronco   Second proof: Agogo   \NEffects & Encoder: Yuuki    QC: Wuzimiko
 Comment: 0,0:00:00.00,0:00:00.00,OP_CH1,,0,0,0,,-----------------CH-----------------
 Comment: 0,0:00:00.00,0:00:00.00,OP_CH1,,0,0,0,,OP_CH1
 Comment: 0,0:00:00.00,0:00:00.00,OP_CH2,,0,0,0,,OP_CH2
