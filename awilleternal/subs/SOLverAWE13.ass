@@ -259,7 +259,7 @@ Dialogue: 0,0:09:34.12,0:09:35.72,Default,,0,0,0,,Young Master!
 Dialogue: 0,0:09:35.72,0:09:36.36,Default,,0,0,0,,He's here.
 Dialogue: 0,0:09:37.16,0:09:38.16,Default,,0,0,0,,Heng'er.
 Dialogue: 0,0:09:39.68,0:09:42.88,Default,,0,0,0,,Leave this... to me.
-Dialogue: 0,0:09:39.26,0:09:43.06,TOP-TEXT,把介绍的字幕移一下位置，改一下字体,0,0,0,,{\fad(300,300)}[Chen Heng, Young Master of the Luochen Clan]
+Dialogue: 0,0:09:39.26,0:09:43.22,TOP-TEXT,把介绍的字幕移一下位置，改一下字体,0,0,0,,{\fad(300,300)}[Chen Heng, Young Master of the Luochen Clan]
 Dialogue: 0,0:09:59.16,0:09:59.32,Default,,0,0,0,,I-
 Dialogue: 0,0:10:00.48,0:10:01.48,Default,,0,0,0,,I'm still alive.
 Dialogue: 0,0:10:03.24,0:10:04.08,Default,,0,0,0,,You're finally awake.
@@ -369,7 +369,7 @@ Dialogue: 0,0:16:03.32,0:16:04.52,Default,,0,0,0,,We've got company.
 Dialogue: 0,0:16:05.96,0:16:06.60,Default,,0,0,0,,Could it be that
 Dialogue: 0,0:16:07.40,0:16:08.64,Default,,0,0,0,,Patriarch Luochen's here?
 Dialogue: 0,0:16:10.20,0:16:10.76,Default,,0,0,0,,Unlikely.
-Dialogue: 0,0:16:12.44,0:16:15.36,Default,,0,0,0,,The Luochen Patriarch must sit in the the eye of the Great Spell of Spirit Reversal.
+Dialogue: 0,0:16:12.44,0:16:15.36,Default,,0,0,0,,He needs to sit in the the eye of the Great Spell of Spirit Reversal.
 Dialogue: 0,0:16:17.04,0:16:18.44,Default,,0,0,0,,He wouldn't leave the spell now
 Dialogue: 0,0:16:19.60,0:16:20.96,Default,,0,0,0,,that he's about to succeed.
 Dialogue: 0,0:16:23.68,0:16:24.52,Default,,0,0,0,,But I heard
