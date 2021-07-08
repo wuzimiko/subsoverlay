@@ -27,8 +27,9 @@ layout: default
 
 <img src="images/NekocapJP.jpg">
 
+-----
 
-#### Leave a comment if you have any questions
+#### Leave a comment if you have any questions!
 
 <iframe src="https://www6.cbox.ws/box/?boxid=864462&boxtag=r6qJLi" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
 
