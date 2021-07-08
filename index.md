@@ -24,7 +24,12 @@ layout: default
 <br>
 
 <div class="zoom">
-<a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en"> <img src="images/LXHBanner.png"> </a></div>
+<a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en"> <img src="images/LXHBannerEN.png"> </a></div>
+
+<br>
+
+<div class="zoom">
+<a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/jp"> <img src="images/LXHBannerJP.png"> </a></div>
 
 
 
