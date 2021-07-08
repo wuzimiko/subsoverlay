@@ -2,7 +2,14 @@
 layout: default
 ---
 
-### How to use <a href="https://nekocap.com">Nekocap</a>
+### Nekocap 
+Main Site: https://nekocap.com/
+
+Our Profile: https://nekocap.com/capper/DF3YHpusni
+
+
+
+## How to use <a href="https://nekocap.com">Nekocap</a>
 
 #### Install the plugin:
 
@@ -11,7 +18,7 @@ layout: default
 
 
 
-#### Use the extension on Bilibili
+#### Use the extension on Bilibili or Youtube:
 
 <img src="images/NekocapEN.jpg">
 
