@@ -12,7 +12,7 @@ layout: default
 
 ## How to use <a href="https://nekocap.com">Nekocap</a>
 
-#### Install the plugin:
+#### Install the extension:
 
 
 <a href="https://chrome.google.com/webstore/detail/nekocap/gmopgnhbhiniibbiilmbjilcmgaocokj">Google Chrome</a> / <a href="https://addons.mozilla.org/en-US/firefox/addon/nekocap/">Firefox</a>
