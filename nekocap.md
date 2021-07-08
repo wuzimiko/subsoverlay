@@ -2,12 +2,12 @@
 layout: default
 ---
 
-### Nekocap 
-Main Site: https://nekocap.com/
+## Nekocap 
+<a href="https://nekocap.com/"> Main Site </a> 
 
-Our Profile: https://nekocap.com/capper/DF3YHpusni
+a href="https://nekocap.com/capper/DF3YHpusni"> Our Profile </a>
 
-
+-----
 
 ## How to use <a href="https://nekocap.com">Nekocap</a>
 
