@@ -7,8 +7,30 @@
 **EN or JP or FR**  = English or Japanese or French subtitles
 
 
+-----
 
-| Name of Softsub File | Compatible with GM Team | Compatible with Official (NekoCap) | 
+### A Will Eternal
+
+| Name of Softsub File | Compatible with GM Team | Language |
 | :-: | :-: | :-: |
-| A Will Eternal Episode 01 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE12.ass">SOL Ver</a>  | N.A. |
-| A Will Eternal Episode 02 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE13.ass">SOL Ver</a>  | N.A. |
+| Episode 01 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE12.ass">SOL Ver</a>  | EN |
+| Episode 02 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE13.ass">SOL Ver</a>  | EN |
+
+
+### Dao Mu Bi Ji: Bronze Tree of Death
+
+<a href="https://www.youtube.com/playlist?list=PLxOs22nkVmnKroGV7O6qMwZ59RW31elGF">Official Youtube Playlist by Tencent</a>
+
+| Name of Softsub File | Compatible with Official Youtube | Language |
+| :-: | :-: | :-: |
+| Episode 01 | <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/subs/OffverDMBJ01.ass">Off Ver</a>  | EN |
+| Episode 02 | <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/subs/OffverDMBJ02.ass">Off Ver</a>  | EN |
+
+
+### The Legend of Luo Xiaohei 羅小黑戰記
+<a href="https://nekocap.com/capper/DF3YHpusniF">Subbed Links for Official Bilibili via Nekocap</a>
+
+| Name of Softsub File | Compatible with Official Bilibili | Language |
+| :-: | :-: | :-: |
+| Episode 29 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/ENOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | EN |
+| Episode 29 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/JPOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | JP |
