@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 **SOL Ver**         = SubsOverlay version, typeset shows well on subsoverlay but font size may vary on PC. Timings are accurate.
 
 
