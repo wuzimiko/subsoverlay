@@ -61,7 +61,7 @@ Style: ED_EN3,思源黑体 CN Medium,48,&H00FFFFFF,&H000000FF,&H00992947,&H00992
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.35,Guodong,Guodong,0,0,0,,{\fade(240,0,0,21,771,0,0)}Brought to you by Guodong Subs
-Dialogue: 0,0:00:03.60,0:00:07.06,TOP-TEXTOffVer,,0,0,0,,This is an overlay of softsubs on the official video. \NAll videos will go to the official channel.
+Dialogue: 0,0:00:03.60,0:00:07.06,TOP-TEXTOffVer,,0,0,0,,This is an overlay of softsubs on the official video. \NAll views will go to the official channel.
 Dialogue: 0,0:00:11.02,0:00:12.39,STAFF,,0,0,0,,Translator: Wuzimiko    Proofreader: K     QC: Raliath\N Lyrics Translator: Wuzimiko     Timer & Effects: Yuuki
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
 Comment: 0,0:00:00.03,0:00:00.03,Default,Masks1,0,0,0,,Masks
