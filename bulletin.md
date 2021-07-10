@@ -17,6 +17,11 @@ layout: default
 ---
 ### 09 July 2021
 
+<a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-02">Dao Mu Bi Ji: Bronze Tree of Death EP 02 (Eng Sub)</a>
+
+---
+### 09 July 2021
+
 #### [EPISODE] 
 <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en">The Legend of Luo Xiaohei EP 29 (Eng Sub)</a>
 
