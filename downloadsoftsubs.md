@@ -16,7 +16,12 @@ layout: default
 
 -----
 
-### <a href-"https://wuzimiko.github.io/subsoverlay/awilleternal/en">A Will Eternal</a>
+## Project List
+<a href="https://wuzimiko.github.io/subsoverlay/" All Project Pages </a>
+
+-----
+
+### A Will Eternal
 
 | Name of Softsub File | Compatible with GM Team | Language |
 | :-: | :-: | :-: |
@@ -25,7 +30,7 @@ layout: default
 
 ---
 
-### <a href-"https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en">Dao Mu Bi Ji: Bronze Tree of Death</a>
+### Dao Mu Bi Ji: Bronze Tree of Death
 
 <a href="https://www.youtube.com/playlist?list=PLxOs22nkVmnKroGV7O6qMwZ59RW31elGF">Official Youtube Playlist by Tencent</a>
 
