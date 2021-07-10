@@ -17,7 +17,7 @@ layout: default
 -----
 
 ## Project List
-<a href="https://wuzimiko.github.io/subsoverlay/" All Project Pages </a>
+<a href="https://wuzimiko.github.io/subsoverlay/"> All Project Pages </a>
 
 -----
 
