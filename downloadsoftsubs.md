@@ -42,4 +42,4 @@ layout: default
 | Name of Softsub File | Compatible with Official | Language |
 | :-: | :-: | :-: |
 | Episode 29 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/ENOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | EN |
-| Episode 29 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/JPOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | JP |
+| EP 29 日本語 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/JPOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | JP |
