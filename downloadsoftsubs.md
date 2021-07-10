@@ -25,8 +25,8 @@ layout: default
 
 | Name of Softsub File | Compatible with GM Team | Language |
 | :-: | :-: | :-: |
-| Episode 01 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE12.ass">SOL Ver</a>  | EN |
-| Episode 02 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE13.ass">SOL Ver</a>  | EN |
+| Episode 12 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE12.ass">SOL Ver</a>  | EN |
+| Episode 13 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE13.ass">SOL Ver</a>  | EN |
 
 ---
 
