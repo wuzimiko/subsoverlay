@@ -25,10 +25,10 @@ Video Position: 26840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,思源黑体 CN Medium,40,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,1,2,10,10,10,1
+Style: Default,思源黑体 CN Medium,38,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,1,2,10,10,10,1
 Style: Default1,思源黑体 CN Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,12,1
 Style: Guodong,思源黑体 CN Medium,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,0.2,2,10,10,120,1
-Style: TOP-TEXT,思源黑体 CN Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.5,8,10,10,12,1
+Style: TOP-TEXT,思源黑体 CN Medium,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.5,8,10,10,12,1
 Style: TOP-TEXTOffVer,思源黑体 CN Medium,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0,8,10,10,12,1
 Style: Note,思源黑体 CN Medium,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,8,10,10,110,1
 Style: annotation,思源黑体 CN Medium,42,&H00FFFFFF,&H000000FF,&H00000000,&H00020202,0,0,0,0,100,100,0,0,1,1,0.2,7,30,10,24,1
