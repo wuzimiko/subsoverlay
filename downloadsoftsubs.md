@@ -42,7 +42,7 @@ layout: default
 ---
 
 ### The Legend of Luo Xiaohei 羅小黑戰記
-<a href="https://nekocap.com/capper/DF3YHpusni">Subbed Links for Official Bilibili via Nekocap</a>
+<a href="https://www.bilibili.com/bangumi/media/md1733/">Official Bilibili Playlist by Bilibili</a>
 
 | Name of Softsub File | Compatible with Official | Language |
 | :-: | :-: | :-: |
