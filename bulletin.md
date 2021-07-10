@@ -15,7 +15,7 @@ layout: default
 ## Latest Updates
 
 ---
-### 09 July 2021
+### 10 July 2021
 
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-02">Dao Mu Bi Ji: Bronze Tree of Death EP 02 (Eng Sub)</a>
 
