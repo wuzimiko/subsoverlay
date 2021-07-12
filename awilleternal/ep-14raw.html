@@ -26,7 +26,6 @@ layout: default3rdpartyoverlay
 }
 
 
-
           
 <style class="vjs-styles-defaults">
     .video-js {
@@ -88,6 +87,16 @@ layout: default3rdpartyoverlay
         height: 100%;
       }
     }</style><style id="libjass-animation-styles-0" type="text/css"></style>
+              
+ <style>
+       @font-face {
+  font-family: Courgette;
+  src: url(subs/fonts/courgetteregular.ttf);
+}
+       div {
+  font-family: Courgette;
+}
+</style>
 
   <body>
 
@@ -113,9 +122,7 @@ layout: default3rdpartyoverlay
           }
         },
         techOrder: ["youtube"],
-        sources: [{"type": "video/youtube", "src": "https://www.youtube.com/embed/kAPU7GGvMv0?cc_load_policy=3"}],
-            fontMap: 
-    ["Courgette", ["./subs/fonts/courgetteregular.ttf"]]
+        sources: [{"type": "video/youtube", "src": "https://www.youtube.com/embed/kAPU7GGvMv0?cc_load_policy=3"}],  
       });
     </script>
     
