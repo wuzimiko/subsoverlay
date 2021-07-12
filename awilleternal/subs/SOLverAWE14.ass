@@ -133,14 +133,14 @@ Comment: 0,0:00:00.03,0:00:00.00,Default,TITLE,0,0,0,,TITLE
 Dialogue: 0,0:02:08.46,0:02:08.50,TITLE_MAIN,,0,0,0,,{\fs185\frz0\pos(970.667,881.333)}A Will Eternal
 Dialogue: 0,0:02:08.50,0:02:08.54,TITLE_MAIN,,0,0,0,,{\fs130\frz0\pos(976,813.333)}A Will Eternal
 Dialogue: 0,0:02:08.54,0:02:12.62,TITLE_MAIN,,0,0,0,,{\fscx100\fscy100\t(0,2380,\fscx90\fscy90)}{\move(976,780,976,760)\fad(0,500)\frz0}A Will Eternal
-Dialogue: 0,0:02:14.10,0:02:17.46,TITLE,,0,0,0,,{\fade(200,0,240,19,980,2380,3339)}{\pos(964.571,641.857)}Episode 14
+Dialogue: 0,0:02:14.10,0:02:17.46,TITLE,,0,0,0,,{\fade(200,0,240,19,980,2380,3339)}{\pos(964,650)}Episode 14
 Comment: 0,0:00:00.03,0:00:00.00,Default,TEXT,0,0,0,,TEXT
 Dialogue: 0,0:02:26.48,0:02:28.36,Default,,0,0,0,,That's Blood Python, the familiar of Young Master Luochen.
 Dialogue: 0,0:02:29.28,0:02:30.96,Default,R,0,0,0,,Looks like Chen Heng made his move.
 Dialogue: 0,0:02:32.40,0:02:34.04,Default,R,0,0,0,,The 9th Level of Qi Condensation,
 Dialogue: 0,0:02:34.80,0:02:36.76,Default,F,0,0,0,,coupled with such a fearsome familiar...
 Dialogue: 0,0:02:37.76,0:02:38.87,Default,F,0,0,0,,if we run into them,
-Dialogue: 0,0:02:39.80,0:02:41.55,Default,F,0,0,0,,it'll be certain death.
+Dialogue: 0,0:02:39.80,0:02:41.55,Default,F,0,0,0,,it will be certain death.
 Dialogue: 0,0:02:43.56,0:02:44.32,Default,F,0,0,0,,9th level...
 Dialogue: 0,0:02:45.16,0:02:45.88,Default,F,0,0,0,,of Qi Condensation...?
 Dialogue: 0,0:02:47.24,0:02:50.40,Default,,0,0,0,,With our current strength, attacking him head on would be like
@@ -149,7 +149,7 @@ Dialogue: 0,0:02:53.64,0:02:54.08,Default,R,0,0,0,,Looks like
 Dialogue: 0,0:02:55.15,0:02:56.28,Default,,0,0,0,,we have little hope
 Dialogue: 0,0:02:57.64,0:02:58.92,Default,//,0,0,0,,of survival.
 Dialogue: 0,0:03:00.00,0:03:00.59,Default,F,0,0,0,,No.
-Dialogue: 0,0:03:01.48,0:03:02.52,Default,F,0,0,0,,We can't let him find us.
+Dialogue: 0,0:03:01.48,0:03:02.52,Default,F,0,0,0,,We can't let him find us!
 Dialogue: 0,0:03:03.60,0:03:04.28,Default,F,0,0,0,,Let's run!
 Dialogue: 0,0:03:05.04,0:03:05.76,Default,F,0,0,0,,Leave us!
 Dialogue: 0,0:03:07.76,0:03:08.24,Default,F,0,0,0,,Senior sister,
@@ -163,8 +163,8 @@ Dialogue: 0,0:03:19.08,0:03:20.00,Default,,0,0,0,,Look at us.
 Dialogue: 0,0:03:20.76,0:03:22.68,Default,F,0,0,0,,Both Senior brother Hou and I are badly injured,
 Dialogue: 0,0:03:23.68,0:03:24.92,Default,F,0,0,0,,and our spiritual Qi has run dry.
 Dialogue: 0,0:03:26.44,0:03:27.24,Default,F,0,0,0,,In terms of speed,
-Dialogue: 0,0:03:28.36,0:03:30.12,Default,F,0,0,0,,we can't even outrun ordinary mortals,
-Dialogue: 0,0:03:31.48,0:03:32.28,Default,F,0,0,0,,let alone
+Dialogue: 0,0:03:28.36,0:03:30.12,Default,F,0,0,0,,we can't even outrun ordinary mortals...
+Dialogue: 0,0:03:31.48,0:03:32.28,Default,F,0,0,0,,...Let alone
 Dialogue: 0,0:03:33.28,0:03:34.76,Default,F,0,0,0,,Chen Heng and his men.
 Dialogue: 0,0:03:35.76,0:03:36.32,Default,F,0,0,0,,But
 Dialogue: 0,0:03:37.04,0:03:38.08,Default,F,0,0,0,,you're fast.
@@ -174,7 +174,7 @@ Dialogue: 0,0:03:44.16,0:03:45.96,Default,F,0,0,0,,when the sect sends in reinfo
 Dialogue: 0,0:03:47.88,0:03:48.84,Default,F,0,0,0,,Quit lying to me!
 Dialogue: 0,0:03:49.80,0:03:50.96,Default,F,0,0,0,,I'm not a child!
 Dialogue: 0,0:03:52.12,0:03:53.80,Default,,0,0,0,,I'd never ditch you guys and run on my own!
-Dialogue: 0,0:03:59.96,0:04:00.68,Default,F,0,0,0,,It's getting closer.
+Dialogue: 0,0:03:59.96,0:04:00.68,Default,F,0,0,0,,They're getting closer.
 Dialogue: 0,0:04:10.12,0:04:10.52,Default,F,0,0,0,,Go!
 Dialogue: 0,0:04:12.32,0:04:12.92,Default,F,0,0,0,,Senior sister Du...
 Dialogue: 0,0:04:13.44,0:04:14.24,Default,F,0,0,0,,are you insane?!
@@ -194,15 +194,15 @@ Dialogue: 0,0:04:42.96,0:04:44.84,Default,F,0,0,0,,You're our only hope.
 Dialogue: 0,0:04:46.16,0:04:47.16,Default,F,0,0,0,,Just go!
 Dialogue: 0,0:04:49.68,0:04:50.39,Default,F,0,0,0,,Go!
 Dialogue: 0,0:05:00.56,0:05:01.32,Default,F,0,0,0,,Junior sister Du.
-Dialogue: 0,0:05:02.40,0:05:04.12,Default,F,0,0,0,,It's the only way to
-Dialogue: 0,0:05:05.64,0:05:07.00,Default,F,0,0,0,,save him.
+Dialogue: 0,0:05:02.40,0:05:04.12,Default,F,0,0,0,,That's the best way 
+Dialogue: 0,0:05:05.64,0:05:07.00,Default,F,0,0,0,,to save him.
 Dialogue: 0,0:05:08.23,0:05:09.00,Default,F,0,0,0,,Junior brother Bai,
 Dialogue: 0,0:05:10.12,0:05:11.00,Default,R,0,0,0,,survive.
-Dialogue: 0,0:05:23.72,0:05:24.92,Default,F,0,0,0,,They move...
-Dialogue: 0,0:05:25.92,0:05:27.52,Default,F,0,0,0,,a lot quicker than expected.
+Dialogue: 0,0:05:23.72,0:05:24.92,Default,F,0,0,0,,They're moving...
+Dialogue: 0,0:05:25.92,0:05:27.52,Default,F,0,0,0,,a lot quicker than we expected.
 Dialogue: 0,0:05:30.23,0:05:31.12,Default,F,0,0,0,,Let's...
 Dialogue: 0,0:05:32.12,0:05:33.64,Default,F,0,0,0,,buy him some more time.
-Dialogue: 0,0:05:36.60,0:05:38.00,Default,F,0,0,0,,We'll all get through his.
+Dialogue: 0,0:05:36.60,0:05:38.00,Default,F,0,0,0,,We'll get through this.
 Dialogue: 0,0:05:39.52,0:05:40.84,Default,F,0,0,0,,I'll keep...
 Dialogue: 0,0:05:41.72,0:05:42.72,Default,F,0,0,0,,everyone alive...
 Dialogue: 0,0:05:44.04,0:05:44.84,Default,F,0,0,0,,my way!
