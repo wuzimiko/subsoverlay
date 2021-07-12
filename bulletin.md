@@ -14,6 +14,11 @@ layout: default
 
 ## Latest Updates
 
+
+---
+### 12 July 2021
+<a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en-14">A Will Eternal EP 14 (Eng Sub)</a>
+
 ---
 ### 10 July 2021
 
