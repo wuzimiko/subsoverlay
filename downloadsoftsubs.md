@@ -28,6 +28,7 @@ layout: default
 | Episode 12 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE12.ass">SOL Ver</a>  | EN |
 | Episode 13 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE13.ass">SOL Ver</a>  | EN |
 | Episode 14 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE14.ass">SOL Ver</a>  | EN |
+| Episode 15 | <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/subs/SOLverAWE15.ass">SOL Ver</a>  | EN |
 
 ---
 
