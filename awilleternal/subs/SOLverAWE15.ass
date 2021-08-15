@@ -57,7 +57,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
 Dialogue: 0,0:00:03.74,0:00:07.02,Guodong,Guodong,0,0,0,,{\fade(240,0,250,20,420,2420,3260)}Brought to you by Guodong Subs
 Dialogue: 0,0:00:16.90,0:00:20.90,STAFF,STAFF,0,0,0,,{\fade(240,0,240,20,980,3020,3980)}Translator: Cheska & LY    Proofreader: Wuzimiko   QC: Roqubot \NLyrics Translator: LY, Natsu, Roqubot & Wuzimiko    Timer, Effect & Encoder: Yuuki
-Dialogue: 0,0:00:08.22,0:00:16.39,Statement,Statement,0,0,0,,{\fade(240,0,240,19,5700,6700,7620)}This video is an English subtitled version of this animation.  Please also support the official channel.
+Dialogue: 0,0:00:08.22,0:00:16.39,Statement,Statement,0,0,0,,{\fade(240,0,240,19,5700,6700,7620)}This is an overlay of softsubs on a third party channel. \NPlease also support the official channel.
 Comment: 0,0:00:00.03,0:00:00.00,Default,Masks1,0,0,0,,Masks
 Comment: 0,0:00:00.03,0:00:00.00,Default,Masks2,0,0,0,,Masks
 Comment: 0,0:00:00.03,0:00:00.00,Default,Masks3,0,0,0,,Masks
