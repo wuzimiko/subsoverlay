@@ -18,6 +18,7 @@ layout: default
 
 <br>
 
+</style>
 <div class="zoom">
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en"> <img src="images/DMBJBanner.png"> </a></div>
 
