@@ -23,6 +23,12 @@ layout: default
 
 <br>
 
+</style>
+<div class="zoom">
+<a href="https://wuzimiko.github.io/subsoverlay/theoutcasts4/en"> <img src="images/TheOutcastS4Banner.png"> </a></div>
+
+<br>
+
 <div class="zoom">
 <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/en"> <img src="images/LXHBannerEN.png"> </a></div>
 
