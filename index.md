@@ -13,18 +13,17 @@ layout: default
 }
 
 </style>
+
 <div class="zoom">
 <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en"> <img src="images/AWEBannerR1.png"> </a></div>
 
 <br>
 
-</style>
 <div class="zoom">
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en"> <img src="images/DMBJBanner.png"> </a></div>
 
 <br>
 
-</style>
 <div class="zoom">
 <a href="https://wuzimiko.github.io/subsoverlay/theoutcasts4/en"> <img src="images/TheOutcastS4Banner.png"> </a></div>
 
