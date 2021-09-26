@@ -41,7 +41,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default_EN,,0,0,0,,STAFF
 Dialogue: 0,0:00:09.98,0:00:16.98,Statement,Statement,0,0,0,,{\fad(1000,0)}This is an overlay of softsubs on a third party channel. \NPlease also support the official channel.
 Dialogue: 0,0:00:20.98,0:00:22.31,Guodong,Guodong,0,0,0,,Brought to you by Guodong Subs
-Dialogue: 0,0:00:22.31,0:00:25.31,STAFF,STAFF,0,0,0,,Translator: Sophia & Shiken      Proofreader: Wuzimiko       QC: Roqubot \NLyrics Translator: Sophia, Shiken & Wuzimiko      Timer, Effect & Encoder: Wuzimiko & Yuuki
+Dialogue: 0,0:00:22.31,0:00:25.31,STAFF,STAFF,0,0,0,,Translator: Sophia & Shiken      Proofreader: Wuzimiko       QC: Roqubot \NLyrics Translator: Sophia, Shiken & Wuzimiko      Timer, Effect & Encoder: Wuzimiko & KFC
 Dialogue: 0,0:00:25.31,0:00:29.31,STAFF,STAFF,0,0,0,,{\c&HFFFFFF&}Translator: Sophia & Shiken      Proofreader: Wuzimiko       QC: Roqubot \NLyrics Translator: Sophia, Shiken & Wuzimiko      Timer, Effect & Encoder: Wuzimiko & KFC
 Comment: 0,0:00:00.00,0:00:00.00,Default_EN,OP,0,0,0,,OP
 Dialogue: 0,0:02:56.02,0:03:01.47,Annotation,,0,0,0,,{\pos(10,80)\fad(400,400)\blur3}*Zhengyue (正月): First month of the lunisolar calendar.
