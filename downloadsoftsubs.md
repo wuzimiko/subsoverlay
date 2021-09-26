@@ -50,3 +50,11 @@ layout: default
 | :-: | :-: | :-: |
 | Episode 29 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/ENOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | EN |
 | EP 29 日本語 | <a href="https://wuzimiko.github.io/subsoverlay/luoxiaohei/subs/JPOffVerLuoXiaoHeiEP29.ass">Off Ver</a>  | JP |
+
+---
+
+### The Outcast Season 4
+
+| Name of Softsub File | Compatible with GM Team | Language |
+| :-: | :-: | :-: |
+| Episode 01 | <a href="https://wuzimiko.github.io/subsoverlay/theoutcasts4/subs/SOLverTOS401.ass">SOL Ver</a>  | EN |
