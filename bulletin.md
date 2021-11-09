@@ -16,12 +16,30 @@ layout: default
 
 
 ---
+### 25 September 2021
+
+#### [EPISODE] 
+<a href="https://wuzimiko.github.io/subsoverlay/theoutcasts4/en-01">The Outcast S4 EP 01 (Eng Sub)</a>
+
+#### [PROJECT PAGE]
+<a href="https://wuzimiko.github.io/subsoverlay/theoutcasts4/en">The Outcast S4 (Eng Sub)</a>
+
+---
+### 15 August 2021
+
+#### [EPISODE] 
+<a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en-15">A Will Eternal EP 15 (Eng Sub)</a>
+
+---
 ### 12 July 2021
+
+#### [EPISODE] 
 <a href="https://wuzimiko.github.io/subsoverlay/awilleternal/en-14">A Will Eternal EP 14 (Eng Sub)</a>
 
 ---
 ### 10 July 2021
 
+#### [EPISODE] 
 <a href="https://wuzimiko.github.io/subsoverlay/bronzetreeofdeath/en-02">Dao Mu Bi Ji: Bronze Tree of Death EP 02 (Eng Sub)</a>
 
 ---
